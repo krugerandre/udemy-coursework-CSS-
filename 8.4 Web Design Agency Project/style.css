@@ -22,3 +22,21 @@ footer {
 color: midnightblue;
 }
 
+.tile-image {
+float: left;
+height: 200px;
+}
+.right {
+float: right;
+}
+.left {
+float: left;
+}
+.card {
+display: block;
+text-align: justify;
+}
+.card img {
+width: 100%;
+
+}
