@@ -25,6 +25,7 @@ color: midnightblue;
 .tile-image {
 float: left;
 height: 200px;
+margin-right: 50px;
 }
 .right {
 float: right;
@@ -35,8 +36,15 @@ float: left;
 .card {
 display: block;
 text-align: justify;
+margin-bottom: 30px;
+width: 100%;
 }
 .card img {
-width: 100%;
-
+width: 40%;
+display: inline;
+object-fit: cover;
+}
+.h1{
+text-align: center;
+padding-top: 10px;
 }
